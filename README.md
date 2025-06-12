@@ -14,14 +14,20 @@ This project visually represents the Sun and 8 planets with realistic textures, 
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/aditya9-2/threejs-solar-system.git
 cd threejs-solar-system
 ```
 
+## OR
+
+unzip the folder and cd <folder>
+
 ###2. Install Dependencies
+
 ```bash
-npm i 
+npm i
 ```
 
 ###3. Start The project
@@ -29,4 +35,3 @@ npm i
 ```bash
 npx vite
 ```
-
