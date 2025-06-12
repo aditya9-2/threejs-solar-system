@@ -22,7 +22,7 @@ cd threejs-solar-system
 
 ## OR
 
-unzip the folder and cd <folder>
+### unzip the folder and cd folder_name
 
 ###2. Install Dependencies
 
